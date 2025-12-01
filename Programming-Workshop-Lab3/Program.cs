@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProgrammingWorkshopLab2
+namespace ProgrammingWorkshopLab3
 {
     class Program
     {
