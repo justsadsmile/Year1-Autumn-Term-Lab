@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic-Programming-Lab1", "Basic-Programming-Lab1\Basic-Programming-Lab1.csproj", "{ECE5C017-2C42-42E4-965F-7E4B63312841}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab1", "BasicProgrammingLab1\BasicProgrammingLab1.csproj", "{ECE5C017-2C42-42E4-965F-7E4B63312841}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic-Programming-Lab2", "Basic-Programming-Lab2\Basic-Programming-Lab2.csproj", "{931A4582-F652-4CBF-B3F2-358E9FEED63E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab2", "BasicProgrammingLab2\BasicProgrammingLab2.csproj", "{931A4582-F652-4CBF-B3F2-358E9FEED63E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic-Programming-Lab3", "Basic-Programming-Lab3\Basic-Programming-Lab3.csproj", "{5054709D-E6E6-411A-87C7-3B8DA2C3A7D6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab3", "BasicProgrammingLab3\BasicProgrammingLab3.csproj", "{5054709D-E6E6-411A-87C7-3B8DA2C3A7D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic-Programming-Lab4", "Basic-Programming-Lab4\Basic-Programming-Lab4.csproj", "{8F37E097-7B2B-45C1-B9B6-6A1251D5B156}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab4", "BasicProgrammingLab4\BasicProgrammingLab4.csproj", "{8F37E097-7B2B-45C1-B9B6-6A1251D5B156}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab1", "Computer-Science-Lab1\Computer-Science-Lab1.vcxproj", "{1AFA82F3-DC38-4CE1-B013-84B15802DEA4}"
 EndProject
@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming-Workshop-Lab1",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming-Workshop-Lab2", "Programming-Workshop-Lab2\Programming-Workshop-Lab2.csproj", "{74E083EE-D5D2-42C0-AA89-C4EE96B8761C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic-Programming-Lab5", "Basic-Programming-Lab5\Basic-Programming-Lab5.csproj", "{AAAAF020-0033-4166-B795-7BB6A6801F9A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab5", "BasicProgrammingLab5\BasicProgrammingLab5.csproj", "{AAAAF020-0033-4166-B795-7BB6A6801F9A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming-Workshop-Lab3", "Programming-Workshop-Lab3\Programming-Workshop-Lab3.csproj", "{C51B0F6C-95DC-41AB-9765-18A5B0B24585}"
 EndProject
