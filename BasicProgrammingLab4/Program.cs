@@ -2,7 +2,7 @@
 using System;
 using System.Diagnostics;
 
-namespace Lab4BaseProg
+namespace BasicProgrammingLab4
 {
     class Program
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Basic_Programming_Lab5
+namespace BasicProgrammingLab5
 {
     /// <summary>
     /// Provides utility methods for console input/output operations and common functionality

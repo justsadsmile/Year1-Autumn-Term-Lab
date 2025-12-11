@@ -1,7 +1,7 @@
 ﻿using DotNetEnv;
 using System;
 
-namespace Basic_Programming_Lab5
+namespace BasicProgrammingLab5
 {
     class Program
     {

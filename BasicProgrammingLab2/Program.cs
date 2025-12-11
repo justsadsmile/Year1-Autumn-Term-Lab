@@ -1,7 +1,7 @@
 ﻿using DotNetEnv;
 using System;
 
-namespace lab2BaseProg
+namespace BasicProgrammingLab2
 {
     class Program
     {

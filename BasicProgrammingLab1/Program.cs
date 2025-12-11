@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace mathFormula
+namespace BasicProgrammingLab1
 {
     class Program
     {

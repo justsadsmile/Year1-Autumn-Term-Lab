@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace Basic_Programming_Lab5
+namespace BasicProgrammingLab5
 {
     /// <summary>
     /// Provides array processing functionality with sorting algorithms comparison

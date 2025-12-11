@@ -11,9 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab3", "Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab4", "BasicProgrammingLab4\BasicProgrammingLab4.csproj", "{8F37E097-7B2B-45C1-B9B6-6A1251D5B156}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab1", "Computer-Science-Lab1\Computer-Science-Lab1.vcxproj", "{1AFA82F3-DC38-4CE1-B013-84B15802DEA4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "computer_science_lab1", "computer_science_lab1\computer_science_lab1.vcxproj", "{1AFA82F3-DC38-4CE1-B013-84B15802DEA4}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab2", "Computer-Science-Lab2\Computer-Science-Lab2.vcxproj", "{8A6D6110-0753-4518-9604-F5CC30F6816F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "computer_science_lab2", "computer_science_lab2\computer_science_lab2.vcxproj", "{8A6D6110-0753-4518-9604-F5CC30F6816F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab1", "ProgrammingWorkshopLab1\ProgrammingWorkshopLab1.csproj", "{586A66B8-0579-478F-BBB2-41BFB1D7D811}"
 EndProject
@@ -23,9 +23,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab5", "Bas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab3", "ProgrammingWorkshopLab3\ProgrammingWorkshopLab3.csproj", "{C51B0F6C-95DC-41AB-9765-18A5B0B24585}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab3", "Computer-Science-Lab3\Computer-Science-Lab3.vcxproj", "{5D08351A-FBEE-4448-9202-BF18CD02E14A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "computer_science_lab3", "computer_science_lab3\computer_science_lab3.vcxproj", "{5D08351A-FBEE-4448-9202-BF18CD02E14A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab4", "Computer-Science-Lab4\Computer-Science-Lab4.vcxproj", "{1CC5B165-4EF1-4C3F-B001-98CA8807AB54}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "computer_science_lab4", "computer_science_lab4\computer_science_lab4.vcxproj", "{1CC5B165-4EF1-4C3F-B001-98CA8807AB54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab4", "ProgrammingWorkshopLab4\ProgrammingWorkshopLab4.csproj", "{3F075D63-20B4-4558-A80D-A192B1D10EB7}"
 EndProject

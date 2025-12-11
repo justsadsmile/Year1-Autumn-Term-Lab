@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Basic_Programming_Lab5
+namespace BasicProgrammingLab5
 {
     /// <summary>
     /// Provides a mathematical guessing game where players attempt to guess the result of a complex calculation
