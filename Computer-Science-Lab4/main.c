@@ -30,6 +30,7 @@ int First1() {
 
 int First2(int x) {
 	int fx = Function(x);
+	printf("%d\n", fx);//show func
 
 	if (fx == 0) {
 		return 1; // 0 / 3 = 3(count = 1)
