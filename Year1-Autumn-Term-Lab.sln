@@ -15,19 +15,19 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab1", "Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab2", "Computer-Science-Lab2\Computer-Science-Lab2.vcxproj", "{8A6D6110-0753-4518-9604-F5CC30F6816F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming-Workshop-Lab1", "Programming-Workshop-Lab1\Programming-Workshop-Lab1.csproj", "{586A66B8-0579-478F-BBB2-41BFB1D7D811}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab1", "ProgrammingWorkshopLab1\ProgrammingWorkshopLab1.csproj", "{586A66B8-0579-478F-BBB2-41BFB1D7D811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming-Workshop-Lab2", "Programming-Workshop-Lab2\Programming-Workshop-Lab2.csproj", "{74E083EE-D5D2-42C0-AA89-C4EE96B8761C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab2", "ProgrammingWorkshopLab2\ProgrammingWorkshopLab2.csproj", "{74E083EE-D5D2-42C0-AA89-C4EE96B8761C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab5", "BasicProgrammingLab5\BasicProgrammingLab5.csproj", "{AAAAF020-0033-4166-B795-7BB6A6801F9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming-Workshop-Lab3", "Programming-Workshop-Lab3\Programming-Workshop-Lab3.csproj", "{C51B0F6C-95DC-41AB-9765-18A5B0B24585}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab3", "ProgrammingWorkshopLab3\ProgrammingWorkshopLab3.csproj", "{C51B0F6C-95DC-41AB-9765-18A5B0B24585}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab3", "Computer-Science-Lab3\Computer-Science-Lab3.vcxproj", "{5D08351A-FBEE-4448-9202-BF18CD02E14A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Computer-Science-Lab4", "Computer-Science-Lab4\Computer-Science-Lab4.vcxproj", "{1CC5B165-4EF1-4C3F-B001-98CA8807AB54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programming-Workshop-Lab4", "Programming-Workshop-Lab4\Programming-Workshop-Lab4.csproj", "{3F075D63-20B4-4558-A80D-A192B1D10EB7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab4", "ProgrammingWorkshopLab4\ProgrammingWorkshopLab4.csproj", "{3F075D63-20B4-4558-A80D-A192B1D10EB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
