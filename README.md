@@ -6,10 +6,10 @@ This repository was created to store my lab work during my studies at university
 
 C#: 
 
-Basic-Programming-Lab 
+BasicProgrammingLab 
 
-Programming-Workshop-Lab
+ProgrammingWorkshopLab
 
 C: 
 
-Computer-Science-Lab
+computer_science_lab
