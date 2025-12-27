@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "computer_science_lab4", "co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgrammingWorkshopLab4", "ProgrammingWorkshopLab4\ProgrammingWorkshopLab4.csproj", "{3F075D63-20B4-4558-A80D-A192B1D10EB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicProgrammingLab6", "BasicProgrammingLab6\BasicProgrammingLab6.csproj", "{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,18 @@ Global
 		{3F075D63-20B4-4558-A80D-A192B1D10EB7}.Release|x64.Build.0 = Release|Any CPU
 		{3F075D63-20B4-4558-A80D-A192B1D10EB7}.Release|x86.ActiveCfg = Release|Any CPU
 		{3F075D63-20B4-4558-A80D-A192B1D10EB7}.Release|x86.Build.0 = Release|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Debug|x64.Build.0 = Debug|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Debug|x86.Build.0 = Debug|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Release|x64.ActiveCfg = Release|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Release|x64.Build.0 = Release|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Release|x86.ActiveCfg = Release|Any CPU
+		{9BC4EDEC-2A24-4B4B-AB69-A788B4761E97}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
