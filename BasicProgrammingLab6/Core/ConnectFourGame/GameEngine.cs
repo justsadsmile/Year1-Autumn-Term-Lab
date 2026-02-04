@@ -95,7 +95,6 @@ namespace BasicProgrammingLab6
         {
             gameBoard = new char[Rows, Columns];
 
-            // Initialize board with empty cells
             for (int row = 0; row < Rows; row++)
             {
                 for (int col = 0; col < Columns; col++)
@@ -126,7 +125,6 @@ namespace BasicProgrammingLab6
             if (column < 0 || column >= Columns)
                 return false;
 
-            // Find the lowest empty row in the column
             int row = -1;
             for (int i = Rows - 1; i >= 0; i--)
             {
@@ -137,7 +135,6 @@ namespace BasicProgrammingLab6
                 }
             }
 
-            // Column is full
             if (row == -1)
             {
                 OnGameStateChanged(new GameStateChangedEventArgs(
@@ -146,10 +143,8 @@ namespace BasicProgrammingLab6
                 return false;
             }
 
-            // Make the move
             gameBoard[row, column] = currentPlayer;
 
-            // Check for win
             if (CheckForWin(currentPlayer))
             {
                 gameWon = true;
@@ -160,7 +155,6 @@ namespace BasicProgrammingLab6
                 return true;
             }
 
-            // Check for draw
             if (CheckForDraw())
             {
                 gameDraw = true;
@@ -171,7 +165,6 @@ namespace BasicProgrammingLab6
                 return true;
             }
 
-            // Switch to next player
             currentPlayer = (currentPlayer == Player1) ? Player2 : Player1;
 
             OnGameStateChanged(new GameStateChangedEventArgs(
