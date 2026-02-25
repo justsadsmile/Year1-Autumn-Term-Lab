@@ -14,6 +14,9 @@ My university lab work from the first year autumn term.
 | `BasicProgrammingLab4` | 2D arrays, Connect Four game |
 | `BasicProgrammingLab5` | Refactoring, utility classes |
 | `BasicProgrammingLab6` | Windows Forms (GUI) |
+
+| Directory | Topics |
+|-----------|--------|
 | `ProgrammingWorkshopLab1` | BMI calculator (basic) |
 | `ProgrammingWorkshopLab2` | BMI with age/gender adjustments |
 | `ProgrammingWorkshopLab3` | Arrays, history tracking, statistics |
